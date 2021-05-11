@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @prashanthganathe
+- 👀 I’m interested in .Net, Web, Security,Cloud, AI
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... prashanthganathe@gmail.com
+
